@@ -1,0 +1,3 @@
+} else {
+        max = numbers[i];
+      }
